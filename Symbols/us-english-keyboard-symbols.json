@@ -1,0 +1,267 @@
+{
+    "symbolsArray": [
+      {
+        "symbol": "!",
+        "name": "Exclamation Mark",
+        "description": "A punctuation mark used to express strong emotion or surprise."
+      },
+      {
+        "symbol": "@",
+        "name": "At Sign",
+        "description": "A symbol used to indicate an email address or to mention someone on social media."
+      },
+      {
+        "symbol": "#",
+        "name": "Hash/Pound Sign",
+        "description": "A symbol used for various purposes, such as denoting numbers, hashtags, or comments in programming languages."
+      },
+      {
+        "symbol": "$",
+        "name": "Dollar Sign",
+        "description": "A symbol used to represent currency, particularly the US dollar."
+      },
+      {
+        "symbol": "%",
+        "name": "Percent Sign",
+        "description": "A symbol used to indicate a proportion or percentage."
+      },
+      {
+        "symbol": "&",
+        "name": "Ampersand",
+        "description": "A logogram representing the word 'and'."
+      },
+      {
+        "symbol": "*",
+        "name": "Asterisk",
+        "description": "A typographic symbol used for various purposes, such as indicating footnotes or multiplication."
+      },
+      {
+        "symbol": "_",
+        "name": "Underscore",
+        "description": "A horizontal line used to separate words or as a special character in programming."
+      },
+      {
+        "symbol": "+",
+        "name": "Plus Sign",
+        "description": "A symbol used for addition or to indicate positive quantities."
+      },
+      {
+        "symbol": "-",
+        "name": "Minus Sign",
+        "description": "A symbol used for subtraction or to indicate negative quantities."
+      },
+      {
+        "symbol": "=",
+        "name": "Equal Sign",
+        "description": "A symbol used to indicate equality or assignment in programming languages."
+      },
+      {
+        "symbol": "<",
+        "name": "Less Than Sign",
+        "description": "A symbol used to indicate that one value is less than another."
+      },
+      {
+        "symbol": ">",
+        "name": "Greater Than Sign",
+        "description": "A symbol used to indicate that one value is greater than another."
+      },
+      {
+        "symbol": "(",
+        "name": "Left Parenthesis",
+        "description": "A symbol used to enclose or group parts of an expression in mathematics or programming."
+      },
+      {
+        "symbol": ")",
+        "name": "Right Parenthesis",
+        "description": "A symbol used to close or mark the end of a group in mathematics or programming."
+      },
+      {
+        "symbol": "[",
+        "name": "Left Square Bracket",
+        "description": "A symbol used to enclose an array or to indicate indexing in programming."
+      },
+      {
+        "symbol": "]",
+        "name": "Right Square Bracket",
+        "description": "A symbol used to close an array or mark the end of indexing in programming."
+      },
+      {
+        "symbol": "{",
+        "name": "Left Curly Brace",
+        "description": "A symbol used to enclose a block of code or to denote objects in programming."
+      },
+      {
+        "symbol": "}",
+        "name": "Right Curly Brace",
+        "description": "A symbol used to close a block of code or mark the end of an object in programming."
+      },
+      {
+        "symbol": "|",
+        "name": "Vertical Bar/Pipe",
+        "description": "A symbol used to represent logical OR or bitwise OR operations in programming."
+      },
+      {
+        "symbol": "\\",
+        "name": "Backslash",
+        "description": "A symbol used to escape special characters or represent directory paths in programming."
+      },
+      {
+        "symbol": "/",
+        "name": "Forward Slash",
+        "description": "A symbol used as a separator in file paths or to denote division in mathematics."
+      },
+      {
+        "symbol": "\"",
+        "name": "Double Quote",
+        "description": "A punctuation mark used to indicate the start or end of a string."
+      },
+      {
+        "symbol": "'",
+        "name": "Single Quote",
+        "description": "A punctuation mark used to indicate the start or end of a character or string literal."
+      },
+      {
+        "symbol": ":",
+        "name": "Colon",
+        "description": "A punctuation mark used to introduce a list or to denote a ratio or time."
+      },
+      {
+        "symbol": ";",
+        "name": "Semicolon",
+        "description": "A punctuation mark used to separate elements in a list or to terminate a statement in programming."
+      },
+      {
+        "symbol": ",",
+        "name": "Comma",
+        "description": "A punctuation mark used to separate items in a list or to indicate a pause in a sentence."
+      },
+      {
+        "symbol": ".",
+        "name": "Period",
+        "description": "A punctuation mark used to indicate the end of a sentence or as a decimal separator."
+      },
+      {
+        "symbol": "?",
+        "name": "Question Mark",
+        "description": "A punctuation mark used to indicate a question or to express doubt or uncertainty."
+      }
+    ],
+    "symbolsAsKey": {
+        "!": {
+          "name": "Exclamation Mark",
+          "description": "A punctuation mark used to express strong emotion or surprise."
+        },
+        "@": {
+          "name": "At Sign",
+          "description": "A symbol used to indicate an email address or to mention someone on social media."
+        },
+        "#": {
+          "name": "Hash/Pound Sign",
+          "description": "A symbol used for various purposes, such as denoting numbers, hashtags, or comments in programming languages."
+        },
+        "$": {
+          "name": "Dollar Sign",
+          "description": "A symbol used to represent currency, particularly the US dollar."
+        },
+        "%": {
+          "name": "Percent Sign",
+          "description": "A symbol used to indicate a proportion or percentage."
+        },
+        "&": {
+          "name": "Ampersand",
+          "description": "A logogram representing the word 'and'."
+        },
+        "*": {
+          "name": "Asterisk",
+          "description": "A typographic symbol used for various purposes, such as indicating footnotes or multiplication."
+        },
+        "_": {
+          "name": "Underscore",
+          "description": "A horizontal line used to separate words or as a special character in programming."
+        },
+        "+": {
+          "name": "Plus Sign",
+          "description": "A symbol used for addition or to indicate positive quantities."
+        },
+        "-": {
+          "name": "Minus Sign",
+          "description": "A symbol used for subtraction or to indicate negative quantities."
+        },
+        "=": {
+          "name": "Equal Sign",
+          "description": "A symbol used to indicate equality or assignment in programming languages."
+        },
+        "<": {
+          "name": "Less Than Sign",
+          "description": "A symbol used to indicate that one value is less than another."
+        },
+        ">": {
+          "name": "Greater Than Sign",
+          "description": "A symbol used to indicate that one value is greater than another."
+        },
+        "(": {
+          "name": "Left Parenthesis",
+          "description": "A symbol used to enclose or group parts of an expression in mathematics or programming."
+        },
+        ")": {
+          "name": "Right Parenthesis",
+          "description": "A symbol used to close or mark the end of a group in mathematics or programming."
+        },
+        "[": {
+          "name": "Left Square Bracket",
+          "description": "A symbol used to enclose an array or to indicate indexing in programming."
+        },
+        "]": {
+          "name": "Right Square Bracket",
+          "description": "A symbol used to close an array or mark the end of indexing in programming."
+        },
+        "{": {
+          "name": "Left Curly Brace",
+          "description": "A symbol used to enclose a block of code or to denote objects in programming."
+        },
+        "}": {
+          "name": "Right Curly Brace",
+          "description": "A symbol used to close a block of code or mark the end of an object in programming."
+        },
+        "|": {
+          "name": "Vertical Bar/Pipe",
+          "description": "A symbol used to represent logical OR or bitwise OR operations in programming."
+        },
+        "\\": {
+          "name": "Backslash",
+          "description": "A symbol used to escape special characters or represent directory paths in programming."
+        },
+        "/": {
+          "name": "Forward Slash",
+          "description": "A symbol used as a separator in file paths or to denote division in mathematics."
+        },
+        "\"": {
+          "name": "Double Quote",
+          "description": "A punctuation mark used to indicate the start or end of a string."
+        },
+        "'": {
+          "name": "Single Quote",
+          "description": "A punctuation mark used to indicate the start or end of a character or string literal."
+        },
+        ":": {
+          "name": "Colon",
+          "description": "A punctuation mark used to introduce a list or to denote a ratio or time."
+        },
+        ";": {
+          "name": "Semicolon",
+          "description": "A punctuation mark used to separate elements in a list or to terminate a statement in programming."
+        },
+        ",": {
+          "name": "Comma",
+          "description": "A punctuation mark used to separate items in a list or to indicate a pause in a sentence."
+        },
+        ".": {
+          "name": "Period",
+          "description": "A punctuation mark used to indicate the end of a sentence or as a decimal separator."
+        },
+        "?": {
+          "name": "Question Mark",
+          "description": "A punctuation mark used to indicate a question or to express doubt or uncertainty."
+        }
+    }
+}
